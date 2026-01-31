@@ -5,4 +5,5 @@ pipeline
 {
 	{maven build}
 	{sonar qube}
+	{Aritfact storage}
 }
