@@ -3,5 +3,6 @@ pipeline
 2
 3
 {
-	maven build
+	{maven build}
+	{sonar qube}
 }
