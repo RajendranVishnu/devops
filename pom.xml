@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <packaging>war</packaging>
+
+    <build>
+        <finalName>First-App</finalName>
+    </build>
 </project>
